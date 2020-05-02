@@ -1,0 +1,88 @@
+{
+    "restorans":{
+        "Sushi-mushi":{
+            "haqida":"salom",
+            "Sushi":[
+                {
+                    "title":"Sezar",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Kaliforniya s kuntujom",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Ayashi",
+                    "subtitle":"Ris, nori, krab, omlet tomago, ayashi sous",
+                    "price":"27000 sum"
+                },
+                {
+                    "title":"Fyuzi",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"30000 sum"
+                },
+                {
+                    "title":"Kaliforniya s masago",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                }
+            ],
+            "Rolli":[
+                {
+                    "title":"Sezar",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Kaliforniya s kuntujom",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Ayashi",
+                    "subtitle":"Ris, nori, krab, omlet tomago, ayashi sous",
+                    "price":"27000 sum"
+                },
+                {
+                    "title":"Fyuzi",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"30000 sum"
+                },
+                {
+                    "title":"Kaliforniya s masago",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                }
+            ],
+            "Napitki":[
+                {
+                    "title":"Sezar",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Kaliforniya s kuntujom",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                },
+                {
+                    "title":"Ayashi",
+                    "subtitle":"Ris, nori, krab, omlet tomago, ayashi sous",
+                    "price":"27000 sum"
+                },
+                {
+                    "title":"Fyuzi",
+                    "subtitle":"Ris, nori, slivochniy sir, kuritsa, aysberg, suxari panko",
+                    "price":"30000 sum"
+                },
+                {
+                    "title":"Kaliforniya s masago",
+                    "subtitle":"Ris, nori, krab, ogurest, spaysi sous, kunjut",
+                    "price":"25000 sum"
+                }
+            ]
+        }
+    }
+}
